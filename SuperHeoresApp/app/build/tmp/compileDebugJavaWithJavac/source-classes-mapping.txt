@@ -1,0 +1,6 @@
+com/example/superheoresapp/databinding/ActivityMainBinding.java
+ com.example.superheoresapp.databinding.ActivityMainBinding
+com/example/superheoresapp/databinding/ActivityVerDatosBinding.java
+ com.example.superheoresapp.databinding.ActivityVerDatosBinding
+com/example/superheoresapp/BuildConfig.java
+ com.example.superheoresapp.BuildConfig
